@@ -7,5 +7,5 @@ class dinosaur:
         self.attack_power = int(attack_power)
         self.health = int(health)
 
-R2D2 = robot("R2D2")
-print(R2D2.name)
+Raptor = dinosaur("Blue")
+print(Raptor.name)

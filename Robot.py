@@ -1,17 +1,13 @@
 
 
 
-class robot:
-    def __init__(self):
-        self.name = ''
-        self.health = int
-        self.weapon = 'Weapon'
-
-    def __init__(self, name):
-       pass
+# class robot:
+#     def __init__(self, health, weapon):
+#         self.name = R2D2, C3PO
+#         self.health = health
+#         self.weapon = weapon
     
-    def attack(self, dinosaur):
-        pass
-R2D2 = robot
-C3PO = robot
-print(R2D2, C3PO)
+# R2D2 = robot(55, weapon)
+# print(R2D2)
+# C3PO = robot(60, weapon)
+# print(C3PO)
